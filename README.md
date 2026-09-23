@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Patience 👋
 
-<!--
-**patienceokwori/patienceokwori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analyst
 
-Here are some ideas to get you started:
+I use SQL, PostgreSQL, and Excel to clean, analyze, and interpret data. I enjoy transforming raw data into clear insights that can support business decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+
+- SQL and PostgreSQL
+- Microsoft Excel
+- Data cleaning
+- Data analysis
+- Data visualization
+- Reporting
+
+### Portfolio Projects
+
+I am currently building practical data analysis projects. My SQL and Excel projects will be added here.
+
+### Currently Learning
+
+- Advanced SQL
+- Excel for data analysis
+- Data visualization
+
+### Contact
+
+- Location: Nigeria
