@@ -15,7 +15,13 @@ I use SQL, PostgreSQL, and Excel to clean, analyze, and interpret data. I enjoy 
 
 ### Portfolio Projects
 
-I am currently building practical data analysis projects. My SQL and Excel projects will be added here.
+### Portfolio Projects
+
+#### [DVD Rental SQL Analysis](https://github.com/patienceokwori/dvd-rental-sql-analysis)
+
+Analyzed a DVD rental database using PostgreSQL to answer questions about films, customer locations and spending.
+
+**Skills used:** SELECT, WHERE, ORDER BY, GROUP BY, aggregate functions, aliases and INNER JOIN.
 
 ### Currently Learning
 
